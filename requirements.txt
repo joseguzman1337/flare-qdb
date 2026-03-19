@@ -1,2 +1,2 @@
-pefile
+pefile==2024.8.26
 https://github.com/williballenthin/vivisect/zipball/master
